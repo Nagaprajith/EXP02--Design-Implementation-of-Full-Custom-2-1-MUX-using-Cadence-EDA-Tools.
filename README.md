@@ -1,4 +1,4 @@
-# EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools.
+# EXP01--Design & Implementation of CMOS Inverter Design using Cadence EDA Tool
 ## NAGA PRAJITH N(212223060178)
 
 ## Aim
